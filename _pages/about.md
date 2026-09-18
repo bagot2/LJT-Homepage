@@ -15,36 +15,7 @@ I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.githu
 - **Hallucination in Vision-Language Models (VLM)**
 - **LLM truthfulness and Interpretability**
 
-## Academic Background
-
-### Hong Kong University of Science and Technology (HKUST)
-**Ph.D. in Computer Science** (2024-Present)
-- Research: LLM reasoning, VLM hallucination, model interpretability
-- Supervisor: Prof. Junxian He
-
-### Shanghai Jiao Tong University (SJTU)
-**B.Eng. in Computer Science** (2020-2024)
-- Graduated with honors in June 2024
-- Received Zhiyuan Honor Scholarship
-- Supervisor: Prof. Junxian He
-
-## Research Experience
-
-### Research Intern at MINIMAX
-**February 2025 - Present**
-- Working on LLM reasoning and reinforcement learning
-
-### Research Intern at Tencent WXG
-**June 2024 - September 2024**
-- Working on Vision-Language Model (VLM) hallucination research
-- Supervisor: Zifei Shan
-
-### Research Intern at Shanghai AI Lab
-**June 2023 - December 2023**
-- Working on LLM truthfulness and interpretability research
-- Supervisor: Prof. Yu Cheng
-
-## Publications
+## Selected Publications
 
 ### 2025
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
@@ -78,6 +49,37 @@ I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.githu
 - **Composing Parameter-Efficient Modules with Arithmetic Operations**
   - Published at NeurIPS 2023
   - Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+
+*For the complete publication list, please visit my [publications page](/publications/).*
+
+## Academic Background
+
+### Hong Kong University of Science and Technology (HKUST)
+**Ph.D. in Computer Science** (2024-Present)
+- Research: LLM reasoning, VLM hallucination, model interpretability
+- Supervisor: Prof. Junxian He
+
+### Shanghai Jiao Tong University (SJTU)
+**B.Eng. in Computer Science** (2020-2024)
+- Graduated with honors in June 2024
+- Received Zhiyuan Honor Scholarship
+- Supervisor: Prof. Junxian He
+
+## Research Experience
+
+### Research Intern at MINIMAX
+**February 2025 - Present**
+- Working on LLM reasoning and reinforcement learning
+
+### Research Intern at Tencent WXG
+**June 2024 - September 2024**
+- Working on Vision-Language Model (VLM) hallucination research
+- Supervisor: Zifei Shan
+
+### Research Intern at Shanghai AI Lab
+**June 2023 - December 2023**
+- Working on LLM truthfulness and interpretability research
+- Supervisor: Prof. Yu Cheng
 
 ## Skills
 
